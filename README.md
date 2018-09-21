@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/RobSap/other/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Topics of Interest
+1. [Unity Augmented Reality](https://robsap.github.io/Unity_Augmented_Reality_Apps/)
+2. [Unity Games](https://robsap.github.io/UnityGamesWebGl/)
+3. [Operating Systems](https://robsap.github.io/Operating_Systems/)
+4. [Android Applications]( https://robsap.github.io/Android_Apps/)
+5. [Machine Learning](http://robsap.github.io/Machine_Learning/)
+6. [Deep Learning](https://robsap.github.io/Deep_Learning/)
+7. [Group Projects](https://robsap.github.io/Group_Projects/)
+8. [Practice Problems](https://robsap.github.io/Practice_Problems/)
+9. [Parallel Programming](https://robsap.github.io/Parallel_Programming/)
+10.  [MediFor](https://robsap.github.io/MediFor/)
+11. [Other](https://robsap.github.io/other/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobSap/other/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
